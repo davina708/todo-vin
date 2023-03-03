@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/davina708/todo-vin.git/static/css/main.e526d202.css",
-    "main.js": "/davina708/todo-vin.git/static/js/main.65471b5e.js",
-    "static/js/787.dc6bac16.chunk.js": "/davina708/todo-vin.git/static/js/787.dc6bac16.chunk.js",
-    "index.html": "/davina708/todo-vin.git/index.html",
-    "main.e526d202.css.map": "/davina708/todo-vin.git/static/css/main.e526d202.css.map",
-    "main.65471b5e.js.map": "/davina708/todo-vin.git/static/js/main.65471b5e.js.map",
-    "787.dc6bac16.chunk.js.map": "/davina708/todo-vin.git/static/js/787.dc6bac16.chunk.js.map"
+    "main.css": "/davina708/todo-vin/static/css/main.e526d202.css",
+    "main.js": "/davina708/todo-vin/static/js/main.2f252505.js",
+    "static/js/787.dc6bac16.chunk.js": "/davina708/todo-vin/static/js/787.dc6bac16.chunk.js",
+    "index.html": "/davina708/todo-vin/index.html",
+    "main.e526d202.css.map": "/davina708/todo-vin/static/css/main.e526d202.css.map",
+    "main.2f252505.js.map": "/davina708/todo-vin/static/js/main.2f252505.js.map",
+    "787.dc6bac16.chunk.js.map": "/davina708/todo-vin/static/js/787.dc6bac16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e526d202.css",
-    "static/js/main.65471b5e.js"
+    "static/js/main.2f252505.js"
   ]
 }
